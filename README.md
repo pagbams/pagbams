@@ -4,7 +4,8 @@ I’m a seasoned Data Analyst dedicated to turning complex datasets into actiona
 With a sharp focus on Excel and Power BI, I empower businesses by unveiling the story their data tells.
 
 ## Projects
-- Data Analytics Project
+- Some of my analytics project
+  *my [work](https://docs.google.com/spreadsheets/d/1W0R34sCJzaTRgVKYDektRYdSgJLUa8IJyRjlN2RyqN8/edit?usp=sharing)
 
 ## Fun Fact:
 
